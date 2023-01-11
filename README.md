@@ -5,7 +5,7 @@ You can also see who hasn't accepted your follower request too, using JSON files
 
 Who Doesn't Follow You Back: 
 
-1. To make it easier- login to Instagram using search engine- and download your data by going to Privacy and Security and scroll down to Data Download and tap Request download (it will take around 10 minutes for Instagram to send you the data) make sure it's downloaded as JSON
+1. To make it easier- login to Instagram using search engine- and download your data by going to Privacy and Security and scroll down to Data Download and tap Request download (it will take around 10 minutes for Instagram to send you the data) make sure it's downloaded as a JSON file (it won't run if it's an HTML file).
 
 2. Download the folder that Instagram emailed to you and open the folder, then click on the followers_and_following and find the file called followers.json and following.json. 
 
